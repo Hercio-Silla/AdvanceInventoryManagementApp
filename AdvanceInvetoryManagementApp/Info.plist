@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    
+    <key>NSCameraUsageDescription</key>
+    <string>App membutuhkan akses kamera untuk mengambil foto barang.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>App membutuhkan akses galeri untuk memilih foto barang.</string>
+
+    
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location to save the supplier's location.</string>
+
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict/>
+	</array>
+</dict>
+</plist>
